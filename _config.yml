@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Eom's History
+title: Eom\'s History
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -13,7 +13,7 @@ author: mathpaul3
 
 navbar-links:
   Menu1: "Projects"
-  Menu2: "menu2"
+  Menu2: "Blogs"
   aboutme: "AboutMe"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
